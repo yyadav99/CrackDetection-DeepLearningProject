@@ -1,5 +1,5 @@
 # CrackDetection
-Basic Neural Network Model to identify image has crack or not.
+Basic Deep Neural Network Model to identify image has crack or not.
 
 ## Content
   - Overview
