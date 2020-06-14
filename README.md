@@ -73,4 +73,4 @@ predicted_value =predict_image(path)
 - [ ] Implement the model in the android application.
 - [ ] Find the length of the crack.
 
-**If you encounter any issue while using code or model, feel free to contact me yadavyogesh9999@gamil.com.**
+**If you encounter any issue while using code or model, feel free to contact me yadavyogesh9999@gmail.com.**
